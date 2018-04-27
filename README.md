@@ -14,7 +14,7 @@ footer: MIT Licensed | <Org> Copyright © 2018-present <Name>
 # VuePress Site & Netlify deploy
 
 ```bash
-git clone git@github.com:zavolokas/vueblog-template.git template
+git clone git@github.com:zavolokas/vuesite-template.git template
 mkdir myblog
 cd myblog
 git init
