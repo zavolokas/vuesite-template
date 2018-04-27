@@ -50,6 +50,7 @@ To try it out locally, clone this repo and generate a static site.
 ```bash{3}
 cd myblog
 npm install
+```
 
 To start a local server execute
 ```bash{3}
